@@ -1,0 +1,10 @@
+{
+  "size": {
+    "numberCellX": 5,
+    "numberCellY": 10
+  },
+
+  "targetAnimal": {
+    "target": "wolf"
+  }
+}
